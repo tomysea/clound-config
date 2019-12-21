@@ -1,1 +1,2 @@
-example.organization.property: "I AM THE DEFAULT ORGANIZATION SERVICE"
+organization.property: "I AM THE DEFAULT ORGANIZATION SERVICE"
+organization.timeoutInMilliseconds: 1100
